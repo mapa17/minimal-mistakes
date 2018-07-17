@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "Manuel Pasieka"
-  avatar           : "/assets/img/profile.jpg"
+  avatar           : "/assets/img/profile.png"
   bio              : "Software Developer and Data Scientist"
   location         : "Europe"
   email            : "manuel.pasieka@protonmail.ch"
