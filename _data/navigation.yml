@@ -16,3 +16,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar:
+  - title: "Sidebar Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Sidebar is defined in _data"
