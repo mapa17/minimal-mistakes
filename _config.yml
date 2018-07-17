@@ -90,12 +90,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  name             : "Manuel Pasieka"
+  avatar           : "/assets/img/profile.jpg"
+  bio              : "Software Developer and Data Scientist"
+  location         : "Europe"
+  email            : "manuel.pasieka@protonmail.ch"
+  uri              : "http://www.movescount.com/es/members/member1767754-Patata_Blanca"
+  github           : "mapa17"
+  orcid            : "https://orcid.org/0000-0002-4906-7981"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
