@@ -17,7 +17,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-sidebar:
+special:
   - title: "Sidebar Title"
     image: http://placehold.it/350x250
     image_alt: "image"
