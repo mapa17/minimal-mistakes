@@ -21,8 +21,8 @@ title                    : "~/ Page"
 title_separator          : "-"
 name                     : "Manuel Pasieka"
 description              : "Blog/Profile/Advertisement"
-url                      : "https://mapa17.github.io/minimal-mistakes" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://mapa17.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/minimal-mistakes"
 repository               : "mapa17/minimal-mistakes"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -46,8 +46,6 @@ staticman:
 reCaptcha:
   siteKey                :
   secret                 :
-atom_feed:
-  path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
