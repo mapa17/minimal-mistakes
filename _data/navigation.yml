@@ -19,6 +19,6 @@ main:
 
 special:
   - title: "Sidebar Title"
-    image: http://placehold.it/350x250
+    image: "/assets/img/configfylogo.png"
     image_alt: "image"
     text: "Sidebar is defined in _data"
