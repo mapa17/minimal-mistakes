@@ -1,8 +1,10 @@
 ---
 permalink: /stuff/
-title: "About"
+title: "Some Stuff"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 toc: true
 ---
 
-#Other stuff
+#Some stuff
+
+this is a page in *_pages*
