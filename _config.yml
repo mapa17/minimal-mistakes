@@ -191,7 +191,7 @@ defaults:
   # _posts
   - scope:
       path: "" # Anywhere in the projec
-      type: posts # Only affecting posts
+      type: "posts" # Only affecting posts
     values:
       layout: single
       author_profile: true
