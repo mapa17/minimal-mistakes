@@ -190,8 +190,8 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: posts
+      path: "" # Anywhere in the projec
+      type: posts # Only affecting posts
     values:
       layout: single
       author_profile: true

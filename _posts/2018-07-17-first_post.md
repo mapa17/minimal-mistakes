@@ -1,6 +1,6 @@
 ---
 title: "First Post"
-layout: post
+type: posts
 categories:
   - Some Category
 tags:
